@@ -11,7 +11,7 @@ async function fetchTransferEvents(routes,i,minAmount) {
   var res = await axios.get(aurl);
   var abi = JSON.parse(res.data.result); 
 
-    var key;
+    
     
    
 if(routes.length>0){
