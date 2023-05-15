@@ -17,3 +17,4 @@ node "directory"/ISeeYou.js
 ```
 =======
 >>>>>>> 
+ Beware that you need to set your own etherscan API key,rpc endpoint and the token address you want to monitor in the ISeeYou.js file
